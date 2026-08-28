@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
-<rect width="512" height="512" rx="80" fill="#0057D9"/>
-<circle cx="256" cy="170" r="60" fill="#ffffff"/>
-<path d="M120 320h272v40H120z" fill="#ffffff"/>
-<path d="M150 250l106-50 106 50v20l-106 50-106-50z" fill="#8ED1FF"/>
-<text x="256" y="450" text-anchor="middle" font-size="34" font-family="Arial" fill="white" font-weight="700">TECHIOUS</text>
-</svg>
